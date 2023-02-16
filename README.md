@@ -1,5 +1,12 @@
 # dockerSetupProject5
-Docker setup for project 5  
+Docker setup for project 5 
+
+Prerequisit:  
+git  
+docker  
+docker-compose
+
+installation:  
 pull this repository,  
 inside the new folder follow the installation process of project 5  
 run docker-compose build  
