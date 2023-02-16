@@ -1,7 +1,7 @@
 # dockerSetupProject5
 Docker setup for project 5  
 pull this repository,  
-inside the new folder follow the installation process of project 5
+inside the new folder follow the installation process of project 5  
 run docker-compose build  
 run docker-compose up -d  
 Entrypoint are:  
