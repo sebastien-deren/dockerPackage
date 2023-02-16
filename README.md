@@ -15,3 +15,6 @@ Entrypoint are:
 -localhost for the main site  
 -localhost:8080 for adminer  
 -localhost:8090 for maildev  
+
+go to localhost:8080 (user: root /pswd: root /db: test )  
+import setup.db and you should be good to go
